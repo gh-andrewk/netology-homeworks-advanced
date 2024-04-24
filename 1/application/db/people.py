@@ -1,1 +1,1 @@
-def get_employees(): pass
+def get_employees(): print(234)
