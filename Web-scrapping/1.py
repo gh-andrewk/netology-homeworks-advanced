@@ -1,5 +1,3 @@
-# определяем список хабов, которые нам интересны
-
 import json
 import requests
 from fake_headers import Headers
